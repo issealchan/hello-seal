@@ -1,2 +1,4 @@
 # hello-seal
-我的第一个存储库
+This is my first time to use github,so I'm very excited now.
+I hope I can really study much.
+I hope I will love here.
